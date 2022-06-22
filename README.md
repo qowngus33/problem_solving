@@ -1,2 +1,2 @@
 # Problem-solving
-### BOJ C++ problem codes
+BOJ C++ problem codes
