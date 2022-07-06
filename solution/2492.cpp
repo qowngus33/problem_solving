@@ -3,7 +3,7 @@
 //  baekjoon
 //
 //  Created by 배주현 on 2022/07/05.
-//
+//  https://www.acmicpc.net/problem/20366
 
 #include <stdio.h>
 #include <vector>
