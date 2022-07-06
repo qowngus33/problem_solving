@@ -1,5 +1,5 @@
 //
-//  2492.cpp
+//  20366.cpp
 //  baekjoon
 //
 //  Created by 배주현 on 2022/07/05.
